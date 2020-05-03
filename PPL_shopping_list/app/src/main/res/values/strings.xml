@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Shopping List</string>
+    <string name="nav_header_subtitle">theteam@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="array_technology">
+        <item>Priorities</item>
+        <item>Grocery</item>
+        <item>Clothing</item>
+        <item>Stationary</item>
+        <item>Technology</item>
+        <item>Healthcare</item>
+        <item>Others</item>
+        <item>Save for Later</item>
+    </string-array>
+    <string name="title_activity_team">team</string>
+    <string name="title_activity_instructions">instructions</string>
+</resources>

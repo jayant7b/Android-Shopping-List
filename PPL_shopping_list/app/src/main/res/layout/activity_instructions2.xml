@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".instructions">
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="389dp"
+        android:layout_height="424dp"
+        android:layout_marginTop="8dp"
+        android:text="       Welcome dear User!\n
+        Instructions on using the app:\n\n
+        To see contents,\n
+        >>Click on a list.\n
+        >>Click on 'View Data' to view the list contents.\n\n
+        To add an item,\n
+        >>Enter the item name\n
+        >>Click on 'Add' to add it to the list.\n\n
+
+        To edit an item,\n
+        >>Click on the item.\n
+        >>Edit it\n
+        >>Click on 'Save'\n \n
+
+        To delete an item,\n
+        >>Click on the item\n
+        >>Click on 'Delete'\n"
+
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="0dp" />
+</android.support.constraint.ConstraintLayout>
